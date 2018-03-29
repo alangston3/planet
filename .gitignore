@@ -1,0 +1,5 @@
+*.dat
+results/plots
+results/*.out
+results/*.war
+
